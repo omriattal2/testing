@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/omrif/CLionProjects/testing/anotherclass.cpp" "C:/Users/omrif/CLionProjects/testing/cmake-build-debug/CMakeFiles/testing.dir/anotherclass.cpp.obj"
-  "C:/Users/omrif/CLionProjects/testing/classyclass.cpp" "C:/Users/omrif/CLionProjects/testing/cmake-build-debug/CMakeFiles/testing.dir/classyclass.cpp.obj"
-  "C:/Users/omrif/CLionProjects/testing/hellothere.cpp" "C:/Users/omrif/CLionProjects/testing/cmake-build-debug/CMakeFiles/testing.dir/hellothere.cpp.obj"
-  "C:/Users/omrif/CLionProjects/testing/main.cpp" "C:/Users/omrif/CLionProjects/testing/cmake-build-debug/CMakeFiles/testing.dir/main.cpp.obj"
-  "C:/Users/omrif/CLionProjects/testing/thisisaclass.cpp" "C:/Users/omrif/CLionProjects/testing/cmake-build-debug/CMakeFiles/testing.dir/thisisaclass.cpp.obj"
+  "C:/Users/omrif/CLionProjects/newTest1/anotherclass.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/anotherclass.cpp.obj"
+  "C:/Users/omrif/CLionProjects/newTest1/classyclass.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/classyclass.cpp.obj"
+  "C:/Users/omrif/CLionProjects/newTest1/hellothere.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/hellothere.cpp.obj"
+  "C:/Users/omrif/CLionProjects/newTest1/main.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/main.cpp.obj"
+  "C:/Users/omrif/CLionProjects/newTest1/thisisaclass.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/thisisaclass.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
