@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/omrif/CLionProjects/newTest1/addedclass.cpp">
+			<Option target="testing"/>
+		</Unit>
+		<Unit filename="C:/Users/omrif/CLionProjects/newTest1/addedclass.h">
+			<Option target="testing"/>
+		</Unit>
 		<Unit filename="C:/Users/omrif/CLionProjects/newTest1/anotherclass.cpp">
 			<Option target="testing"/>
 		</Unit>

@@ -73,12 +73,12 @@ preinstall:
 CMakeFiles/testing.dir/all:
 	$(MAKE) -f CMakeFiles\testing.dir\build.make CMakeFiles/testing.dir/depend
 	$(MAKE) -f CMakeFiles\testing.dir\build.make CMakeFiles/testing.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\omrif\CLionProjects\newTest1\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target testing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\omrif\CLionProjects\newTest1\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target testing"
 .PHONY : CMakeFiles/testing.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/testing.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\omrif\CLionProjects\newTest1\cmake-build-debug\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\omrif\CLionProjects\newTest1\cmake-build-debug\CMakeFiles 7
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/testing.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\omrif\CLionProjects\newTest1\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/testing.dir/rule

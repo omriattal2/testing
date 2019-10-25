@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/omrif/CLionProjects/newTest1/addedclass.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/addedclass.cpp.obj"
   "C:/Users/omrif/CLionProjects/newTest1/anotherclass.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/anotherclass.cpp.obj"
   "C:/Users/omrif/CLionProjects/newTest1/classyclass.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/classyclass.cpp.obj"
   "C:/Users/omrif/CLionProjects/newTest1/hellothere.cpp" "C:/Users/omrif/CLionProjects/newTest1/cmake-build-debug/CMakeFiles/testing.dir/hellothere.cpp.obj"

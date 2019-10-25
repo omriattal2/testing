@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/testing.dir/addedclass.cpp.obj"
   "CMakeFiles/testing.dir/anotherclass.cpp.obj"
   "CMakeFiles/testing.dir/classyclass.cpp.obj"
   "CMakeFiles/testing.dir/hellothere.cpp.obj"

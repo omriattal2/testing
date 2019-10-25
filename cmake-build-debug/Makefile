@@ -122,6 +122,33 @@ testing/fast:
 	$(MAKE) -f CMakeFiles\testing.dir\build.make CMakeFiles/testing.dir/build
 .PHONY : testing/fast
 
+addedclass.obj: addedclass.cpp.obj
+
+.PHONY : addedclass.obj
+
+# target to build an object file
+addedclass.cpp.obj:
+	$(MAKE) -f CMakeFiles\testing.dir\build.make CMakeFiles/testing.dir/addedclass.cpp.obj
+.PHONY : addedclass.cpp.obj
+
+addedclass.i: addedclass.cpp.i
+
+.PHONY : addedclass.i
+
+# target to preprocess a source file
+addedclass.cpp.i:
+	$(MAKE) -f CMakeFiles\testing.dir\build.make CMakeFiles/testing.dir/addedclass.cpp.i
+.PHONY : addedclass.cpp.i
+
+addedclass.s: addedclass.cpp.s
+
+.PHONY : addedclass.s
+
+# target to generate assembly for a file
+addedclass.cpp.s:
+	$(MAKE) -f CMakeFiles\testing.dir\build.make CMakeFiles/testing.dir/addedclass.cpp.s
+.PHONY : addedclass.cpp.s
+
 anotherclass.obj: anotherclass.cpp.obj
 
 .PHONY : anotherclass.obj
@@ -266,6 +293,9 @@ help:
 	@echo ... testing
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... addedclass.obj
+	@echo ... addedclass.i
+	@echo ... addedclass.s
 	@echo ... anotherclass.obj
 	@echo ... anotherclass.i
 	@echo ... anotherclass.s
